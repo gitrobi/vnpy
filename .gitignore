@@ -1,5 +1,6 @@
 # Python
 *.pyc
+*.egg-info/
 
 # Jupyter
 .ipynb_checkpoints
@@ -25,3 +26,8 @@ dist
 *.iobj
 *.ipdb
 *.pdb
+
+# Documents
+_build
+_static
+_templates
